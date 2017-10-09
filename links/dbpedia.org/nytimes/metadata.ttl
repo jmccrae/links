@@ -6,5 +6,5 @@
 <#ls1> a void:Linkset ;
 	dc:author <TODO> ;
 	dbp:ntriplefilelocation <nyt-links.ttl> ;
-	void:objectsTarget <http://http://developer.nytimes.com/> ;
+	void:objectsTarget <http://developer.nytimes.com/> ;
 	dct:description "TODO " .
